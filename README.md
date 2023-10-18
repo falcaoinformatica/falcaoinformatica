@@ -6,7 +6,7 @@
 
 ## Hi! 👊🏻
 
-Welcome to &nbsp; <img style="vertical-align:middle" src="[https://falcaoinformatica.com.br/wp-content/uploads/2019/08/logotipo-1.png]" width="40%" height="40%"/>.
+Welcome to &nbsp; Falcao Informatica GitHub Page.
 
 
 - ✍🏻 You will find here a lot of Simple web applications, Containers and Automation.
