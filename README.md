@@ -14,7 +14,7 @@ Welcome to &nbsp; Falcao Informatica GitHub Page.
 ## 📥 How to reach us
 
 
-I love to share and trade experience and knowledge.
+We love to share and trade experience and knowledge.
 
 - 📚 More than 10y at Market.
 - :octocat: many GitHub repositories. Search below!
